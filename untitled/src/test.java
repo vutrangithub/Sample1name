@@ -18,7 +18,11 @@ public class test {
         System.out.println("Tran Dinh Vu");
         System.out.println("Tran Dinh Vu");
         System.out.println("Tran Dinh Vu");
-
-
+        System.out.println("Tran Dinh Vu");
+        System.out.println("Tran Dinh Vu");
+        System.out.println("Tran Dinh Vu");
+        System.out.println("Tran Dinh Vu");
+        System.out.println("Tran Dinh Vu");
+        System.out.println("Tran Dinh Vu");
     }
 }
